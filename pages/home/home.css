@@ -8,5 +8,6 @@ h2 {
 }
 
 p {
-  color: aliceblue
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
