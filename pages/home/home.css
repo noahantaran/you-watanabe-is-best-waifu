@@ -2,7 +2,7 @@ ion-content {
   background-color: skyblue;
 }
 
-h2 {
+h1 {
   color: whitesmoke;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -10,4 +10,9 @@ h2 {
 p {
   color: aliceblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h5 {
+  color: whitesmoke;
+
 }
