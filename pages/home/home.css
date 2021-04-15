@@ -9,7 +9,8 @@ h1 {
 
 p {
   color: aliceblue;
-  font-family: Verdana, Geneva, Tahoma, sans-serif
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
 }
 
 h4 {
@@ -19,5 +20,6 @@ h4 {
 
 body {
   color:azure;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: justify;
 }
