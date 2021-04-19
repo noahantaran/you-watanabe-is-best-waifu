@@ -23,3 +23,7 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: justify;
 }
+
+.custom {
+  cursor: url(https://i.imgur.com/M3Hrpav.png), auto;
+}
